@@ -1,4 +1,5 @@
-👋 HELLO, WELCOME TO MY OWN WORLD </h1>
+<h1 align="center">👋 HELLO, WELCOME TO MY OWN WORLD </h1>
+
 <h3 align="center"> Hi 👋 I'm Subhajit</h3>
 <h3 align="center">A passionate softwer developer from India</h3>
 <h3 align="center">I'm a self-taught, code-wielding enthusiast, crafting digital wonders from India! Founder & CEO of *Fushion Pixel Labs*</h3>
