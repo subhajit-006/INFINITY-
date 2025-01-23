@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at **MY GITHUB**([Click Here](https://github.com/subhajit-006))
 - 📫 How to reach me (subhajitdebnath2024@gmail.com).
 - ⚡ Fun fact **I LOVE CREATING AND DESIGNING SOMETHINGS NEW**.
-- 🌐 Don't Forget To Checkout [My Website](http://fushionpixel.vercel.app).
+- 🌐 Don't Forget To Checkout [Fushion pixel Labs](http://fushionpixel.vercel.app).
 
 ## 🛠️ Languages and Tools:
 [Insert Icons or Badges for Technologies You Use]
